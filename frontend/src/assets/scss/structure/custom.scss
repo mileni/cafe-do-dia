@@ -1,0 +1,65 @@
+.card-img-container {
+	padding: 10px 0px;
+	
+	&.coffee--tocaya {
+		background-color: #f2ecd9;
+	}
+
+	&.coffee--veroo {
+		background-color: #f6e6cd;
+	}
+	
+	&.coffee--realcafe {
+		background-color: #f6f6f6;
+	}
+	
+	&.coffee--ourodocerrado {
+		background-color: #fbf5e2;
+	}
+	
+	&.coffee--sydra {
+		background-color: #ebdfd6;
+	}
+	
+	&.coffee--scafello {
+		img {
+			object-fit: cover;
+		}
+	}
+
+	&.coffee--schott {
+		img {
+			object-fit: cover;
+		}
+	}
+}
+
+.coffeeImage {
+	background-color: #FFFFFF;
+	
+	&.coffee--tocaya {
+		background-color: #f2ecd9; 
+	}
+	
+	&.coffee--realcafe {
+		background-color: #f6f6f6;
+	}
+	
+	&.coffee--ourodocerrado {
+		background-color: #fbf5e2;
+	}
+
+	&.coffee--veroo {
+		background-color: #f6e6cd;
+	}
+	
+	&.coffee--sydra {
+		background-color: #ebdfd6;
+	}
+
+	&.coffee--schott {
+		img {
+			object-fit: cover;
+		}
+	}
+}

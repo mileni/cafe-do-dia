@@ -1,0 +1,36 @@
+.modalCoffee {
+	border: solid #000000b3 6px;
+	min-width: 800px;
+
+	header {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin-bottom: 10px;
+
+		h2 {
+			margin-bottom: 0px;
+		}
+	}
+
+	.coffeeScore {
+		label {
+			display: block;
+			font-size: 10px;
+			text-transform: uppercase;
+			font-weight: 300;
+		}
+	}
+
+	.coffeeContent {
+
+		.coffeeItem {}
+
+		.coffeeInfo {
+
+			label {
+				display: inline;
+			}
+		}
+	}
+}
